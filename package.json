@@ -1,15 +1,15 @@
 {
-  "name": "maze-looter-server",
-  "version": "1.0.0",
-  "description": "Dedicated Multiplayer Server for Maze Looter 3D",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "socket.io": "^4.7.2"
-  }
+"name": "maze-looter-server",
+"version": "1.0.0",
+"description": "Dedicated Multiplayer Server for Maze Looter 3D",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"cors": "^2.8.5",
+"express": "^4.18.2",
+"socket.io": "^4.7.2",
+"node-fetch": "^2.6.7"
 }
-
+}
